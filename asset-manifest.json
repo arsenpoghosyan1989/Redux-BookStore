@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Redux-BookStore.git/static/css/main.6a785951.chunk.css",
+    "main.js": "/Redux-BookStore.git/static/js/main.57ab71aa.chunk.js",
+    "main.js.map": "/Redux-BookStore.git/static/js/main.57ab71aa.chunk.js.map",
+    "runtime-main.js": "/Redux-BookStore.git/static/js/runtime-main.175acd74.js",
+    "runtime-main.js.map": "/Redux-BookStore.git/static/js/runtime-main.175acd74.js.map",
+    "static/js/2.6e00c86e.chunk.js": "/Redux-BookStore.git/static/js/2.6e00c86e.chunk.js",
+    "static/js/2.6e00c86e.chunk.js.map": "/Redux-BookStore.git/static/js/2.6e00c86e.chunk.js.map",
+    "index.html": "/Redux-BookStore.git/index.html",
+    "precache-manifest.c1144b37176ccef35bedf93250c61315.js": "/Redux-BookStore.git/precache-manifest.c1144b37176ccef35bedf93250c61315.js",
+    "service-worker.js": "/Redux-BookStore.git/service-worker.js",
+    "static/css/main.6a785951.chunk.css.map": "/Redux-BookStore.git/static/css/main.6a785951.chunk.css.map",
+    "static/js/2.6e00c86e.chunk.js.LICENSE.txt": "/Redux-BookStore.git/static/js/2.6e00c86e.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Redux-BookStore.git/static/media/1.697d2691.jpg",
+    "static/media/2.jpg": "/Redux-BookStore.git/static/media/2.d282bc8b.jpg",
+    "static/media/3.jpg": "/Redux-BookStore.git/static/media/3.be0e5527.jpg",
+    "static/media/4.jpg": "/Redux-BookStore.git/static/media/4.b5e5b564.jpg",
+    "static/media/5.jpg": "/Redux-BookStore.git/static/media/5.60766fe1.jpg",
+    "static/media/6.jpg": "/Redux-BookStore.git/static/media/6.b461b11e.jpg",
+    "static/media/spinner.gif": "/Redux-BookStore.git/static/media/spinner.bc442313.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.175acd74.js",
+    "static/js/2.6e00c86e.chunk.js",
+    "static/css/main.6a785951.chunk.css",
+    "static/js/main.57ab71aa.chunk.js"
+  ]
+}
